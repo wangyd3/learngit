@@ -9,4 +9,5 @@ int main()
 	wangyd();
 	dev();
 	dev();
+	dev();
 }
