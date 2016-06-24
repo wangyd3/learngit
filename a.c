@@ -7,4 +7,6 @@ int main()
 	wangyd();
 	wangyd();
 	wangyd();
+	dev();
+	dev();
 }
