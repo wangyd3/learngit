@@ -10,4 +10,9 @@ int main()
 	dev();
 	dev();
 	dev();
+	dev();
+	dev();
+	
+	dev();
+
 }
