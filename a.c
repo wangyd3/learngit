@@ -15,5 +15,6 @@ int main()
 	
 	dev();
 	dev_test();
+	dev_test();
 	
 }
